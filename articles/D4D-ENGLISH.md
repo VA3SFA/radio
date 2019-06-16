@@ -1,5 +1,5 @@
 # D4D Installation and modification of double-sided radio stations
-By va3sfa (BH4DCL)
+By cnsit (BH4DCL)
 ---
 [D4D] (http://crkits.com/) is a low-power bilateral band radio designed by BD6CR. Its characteristics are:
 - Low power, double sideband, which makes many designs of D4D possible
