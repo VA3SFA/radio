@@ -3,4 +3,4 @@
 ## 套件
 - [D4D 双边带电台的安装改造](https://github.com/va3sfa/radio/blob/D4D/articles/D4D.md)
 
-- [README in English](https://github.com/va3sfa/radio/blob/D4D/README-ENGLISH.md)
+- [README in English](https://github.com/va3sfa/radio/blob/README-ENGLISH.md)
