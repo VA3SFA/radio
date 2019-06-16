@@ -16,15 +16,15 @@ The original D4D filter is a 5-cell low-pass filter. The actual bandwidth of the
 ![Modified Filter Circuit] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/Image-20.png)
 
 Two new capacitors can be mounted on the back of the board, directly in parallel with C21 and C24.
-[Modified Filter Installation] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/thumbnail_Image-19.png)
+![Modified Filter Installation] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/thumbnail_Image-19.png)
 
 The following is a comparison of the frequency response curves of the filters before and after the transformation:
 ![Frequency response curve comparison] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/Image-22.png)
 
 ## RF power amplifier transformation
 D4D's RF power amplifier is the highlight of its design. The carefully-selected power tube can stably output 1W with the simplest circuit (measured by 12v power supply can reach 1.5W). However, in order to further improve the output signal quality and stability, the bias resistor R8 (3.3k) of the power amplifier section is connected to the base and collector of Q4.
-[[RF amplifier conversion circuit] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/Image-23.png)
-[Renovation and Installation of RF Power Amplifier] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/Image-16.png)
+![RF amplifier conversion circuit] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/Image-23.png)
+![Renovation and Installation of RF Power Amplifier] (https://github.com/va3sfa/radio/blob/D4D/articles/d4d/Image-16.png)
 
 ## VOX voice control transformation
 The DOX's original VOX voice control circuit requires at least 1.2Vpp (600mVcp) of audio signal to trigger. For many laptops and even desktop sound cards, this output is quite difficult. The BD6CR even recommends using an external sound card to achieve this trigger level.
